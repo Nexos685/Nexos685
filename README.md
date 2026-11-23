@@ -12,9 +12,9 @@
 
 **Learning next**
 
-- Python
-- TypeScript
-- JavaScript
+- ROS2 for Autonomous Robotics
+- Neural Particle Automata's in Robot Swarms
+- Pytorch for Reccurent Neural Networks
 
 👥 **0** followers · **0** following
 
