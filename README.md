@@ -63,22 +63,6 @@ A selected project from this GitHub profile.<br/>
 [View repository](https://github.com/Nexos685/Spotify-Queue-Complete)
 </details>
 
-## Progress so far
-
-- **Current streak:** 0 days
-- **Longest streak:** 1 days
-- **Active days:** 5 days
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=nexos685&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F118987535%3Fv%3D4" alt="nexos685 stats visual" />
-</p>
-
-## Learning streak
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=nexos685&theme=neon" alt="nexos685 contribution activity" />
-</p>
-
 ## Say hello
 
 <p align="center">
