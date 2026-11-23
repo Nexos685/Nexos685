@@ -20,10 +20,11 @@
 
 ## Tools I’m practicing
 
-- **Python** · 33%
-- **TypeScript** · 28%
-- **JavaScript** · 21%
-- **C** · 16%
+- **Python**
+- **C#**
+- **TypeScript** 
+- **JavaScript** 
+- **C**
 
 ## Projects in progress
 
